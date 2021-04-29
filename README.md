@@ -1,2 +1,2 @@
 # python-aws-s3
-Demo for uploading jpg to AWS S3 using python
+Demo for uploading csv file using nodejs and jpg file using python also.
