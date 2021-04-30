@@ -1,2 +1,2 @@
-# python-aws-s3
+# aws-s3-upload
 Demo for uploading csv file using nodejs and jpg file using python also.
